@@ -1,6 +1,6 @@
 /*Ariel Isidro Nina Saavedra*/
 import java.util.Scanner;
-public class Main{
+public class ex7Funcoes{
     public static int calcularFatorial(int numero){
         int resultado = 1;
         for (int i=1;i<=numero;i++){
