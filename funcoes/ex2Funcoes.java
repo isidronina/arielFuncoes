@@ -1,5 +1,5 @@
 /*Ariel Isidro Nina Saavedra*/
-public class Main{
+public class ex2Funcoes{
     public static void main (String[]args){
         System.out.println("Chamando: ");
         imprimeNovaMensagem("função");
