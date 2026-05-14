@@ -1,6 +1,6 @@
 /*Ariel Isidro Nina Saavedra*/
 import java.util.Scanner;
-public class Main{
+public class ex4Funcoes{
     public static boolean isPar(int numero){
         if(numero %2==0){
             return true;
