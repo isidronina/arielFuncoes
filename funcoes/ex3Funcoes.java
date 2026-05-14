@@ -1,6 +1,6 @@
 /*Ariel Isidro Nina Saavedra*/
 import java.util.Scanner;
-public class Main{
+public class ex3Funcoes{
     public static void main (String[]args){
         Scanner e = new Scanner(System.in);
         int n1,n2;
