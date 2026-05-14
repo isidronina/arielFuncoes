@@ -1,5 +1,5 @@
 /*Ariel Isidro Nina Saavedra*/
-public class Main{
+public class ex6Funcoes{
     public static int retornaMaior(int[]vetor){
         int maior = vetor[0];
         for(int num: vetor){
