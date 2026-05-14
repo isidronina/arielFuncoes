@@ -1,3 +1,4 @@
+/*Ariel Isidro Nina Saavedra*/
 import java.util.Scanner;
 public class Main{
     public static boolean isPar(int numero){
